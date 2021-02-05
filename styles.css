@@ -1,0 +1,75 @@
+body{
+    background-color:black;
+    font-family: 'Chilanka';font-size: 13px;
+    padding-top: 160px;
+
+}
+#content-principal{
+    width: 30%;
+    margin: auto;
+    background-color:white;
+}
+#wrapper{
+    display: flex;
+}
+#sidebar{
+    width: 30%;
+    flex: 85%;
+    padding-left: 10px;
+}
+#content{
+    width: 30%;
+    flex: 15%;
+    margin: auto;
+    padding-right: 5px;
+}
+#sidebar-1{
+    width: 30%;
+    flex: 50%;
+    padding-left: 10px;
+}
+#content-1{
+    width: 30%;
+    flex:50%;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+img {
+    width: 75%;
+    margin: auto;
+}
+input{
+    width: 152px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    font-family: 'Chilanka';font-size: 13px;
+}
+#boton{
+    margin:5px;
+    text-align: center;
+    height: 50px;
+}
+button{
+    font-family: 'Chilanka';font-size: 13px;
+    background-color:grey;
+    font-weight: bold;
+    height: 18px;
+}
+
+i { 
+    position: absolute; 
+} 
+ 
+.icon { 
+    padding-top: 1px; 
+    margin-left: 143px; 
+} 
+.icon-1{ 
+    padding-top: 19px; 
+    margin-left: -13px;  
+} 
+p{
+    text-align: justify;
+    font-weight: bold;
+}
